@@ -200,6 +200,28 @@ main {
 }
 
 
+/* Signu up form */
+#main {
+    flex: column;
+}
+
+#signup {
+    background: url(sign);
+     background-size: cover;
+     background-position: 75%;
+     flex-grow: 1;
+     padding: 20px 10px;
+}
+
+#signup h2 {
+    color:#fafafa;
+}
+
+#signup-form {
+    color: #ffffff;
+    background-color: rgba(60 60 60 0.6);
+    padding: 30px;
+}
 
 /* footer */
 #social-networks {
